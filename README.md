@@ -1,2 +1,0 @@
-# wlupc
-nameuniversity
